@@ -1,0 +1,7 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, Arial, sans-serif; }
+.auth-bg { min-height: 100vh; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg,#e3f2fd,#f5f7fb); padding: 20px; }
+table { width: 100%; }
+@media (max-width: 700px) {
+  main { padding: 16px !important; }
+}
